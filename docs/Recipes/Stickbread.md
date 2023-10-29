@@ -1,4 +1,9 @@
-#Recipe/Campfire
+---
+tags:
+  - Campfire
+---
+
+# Stickbread 🥖
 
 > Makes 6 breads
 ### Ingredients

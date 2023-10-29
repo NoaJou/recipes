@@ -1,4 +1,10 @@
-#Recipe/Main  #Recipe/Vegetarian  
+---
+tags:
+  - Main
+  - Vegetarian
+---
+
+# Miso Soup with Rice Noodles 🍜 
 
 >Serves: 2 | Time: 20min
 ### Ingredients 
@@ -8,11 +14,11 @@
 - (optional) Gochujang pepper paste
 - 1 Courgette or a couple of florets of Broccoli (or other vegetables likes bok choi)
 - A few mushrooms
-- [[Japanese Egg Roll 🥢]] (or just a boiled egg, cut into quarters)
+- [[Japanese-Egg-Roll]] (or just a boiled egg, cut into quarters)
 
 *You can easily add other ingredients like tofu or carrots to the mix.*
 ### Steps
-1. Prepare the [[Japanese Egg Roll 🥢]] or boil 2 eggs.
+1. Prepare the [[Japanese-Egg-Roll]] or boil 2 eggs.
 2. Slice the courgette into pieces about 5cm long and 0.5cm thick.
 3. Cut up the mushrooms. About 1 to 1.5 cm thick, as you want to be able to grab them well with the chopsticks while eating. 
 4. Fry up the courgette pieces (or small broccoli florets) in a large pan until done. Then fry up the mushrooms. Set aside.

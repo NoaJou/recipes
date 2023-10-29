@@ -1,4 +1,11 @@
-#Recipe/Main #Recipe/Vegetarian
+---
+tags:
+  - Main
+  - Vegetarian
+---
+
+# Risotto 🍚
+
 ### Ingredients:
 - 1 red bell pepper, diced
 - 8 oz. mushrooms, sliced

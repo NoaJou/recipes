@@ -1,4 +1,10 @@
-#Recipe/Main 
+---
+tags:
+  - Main
+  - Vegetarian
+---
+
+# Pizza Dough 🍕
 
 >Serves: 6 | Time: 30min prep / 15h wait
 ### Ingredients

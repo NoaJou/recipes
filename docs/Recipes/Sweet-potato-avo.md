@@ -1,4 +1,10 @@
-#Recipe/Main #Recipe/Vegetarian
+---
+tags:
+  - Main
+  - Vegetarian
+---
+
+# Sweet Potato and Avocado 🍠
 
 > Serves 2 | Time: 30min
 ### Ingredients

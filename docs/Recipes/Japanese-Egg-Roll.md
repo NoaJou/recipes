@@ -1,10 +1,16 @@
-#Recipe/Side #Recipe/Vegetarian  
+---
+tags:
+  - Side
+  - Vegetarian
+---
+
+# Japanese Egg Roll 🥢
 
 ![](https://i.imgur.com/F2W98Ey.jpg)
 
 >Serves: 2 | Time: 15min
 
-This dish is known as **Tamagoyaki** in Japanese. Very tasty in [[Miso Soup with Rice Noodles 🍜]] or with sushi.
+This dish is known as **Tamagoyaki** in Japanese. Very tasty in [[Miso-Soup-Rice-Noodles]] or with sushi.
 ### Ingredients 
 - 3 eggs
 - Dash of soy sauce

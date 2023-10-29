@@ -1,4 +1,10 @@
-#Recipe/Side #Recipe/Vegetarian 
+---
+tags:
+  - Side
+  - Vegetarian
+---
+
+#Basmati Rice 🍚
 
 ![https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy](https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy)
 

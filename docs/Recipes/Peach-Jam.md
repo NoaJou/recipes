@@ -1,4 +1,10 @@
-#Recipe/Side
+---
+tags:
+  - Side
+---
+
+# Peach Jam 🍑
+
 ### Ingredients
 - 3 1/2 pound peaches (1 lb = 3 to 4 medium peaches), peeled, pitted, and cut into chunks
 - 2 1/2 cup sugar (remember, you can start with less sugar and add more if needed, but don’t add too little or your jam won’t gel.)

@@ -1,4 +1,10 @@
-#Recipe/Side  #Recipe/Vegetarian 
+---
+tags:
+  - Side
+  - Vegetarian
+---
+
+# Granola 🥣
 
 > Serves: 10-15 | Time: 1h
 ### Ingredients

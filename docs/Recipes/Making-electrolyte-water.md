@@ -1,4 +1,10 @@
-#Health/Body #Recipe/Health 
+---
+tags:
+  - Drink
+  - Vegetarian
+---
+
+# Electrolyte Water 💧
 
 ## Basic Recipe
 - **½ teaspoon salt** provides about 1 gram sodium

@@ -1,4 +1,10 @@
-#Recipe/Main #Recipe/Vegetarian 
+---
+tags:
+  - Main
+  - Vegetarian
+---
+
+# Tofu butter "chicken" 🍛
 
 ![](https://i.imgur.com/CuTdk81.jpg)
 

@@ -1,4 +1,9 @@
-#Recipe/Main 
+---
+tags:
+  - Main
+---
+
+# One-pot Paste 🍝
 
 ![](https://i.imgur.com/BiybJER.jpg)
 

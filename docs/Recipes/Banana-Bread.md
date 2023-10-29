@@ -1,4 +1,10 @@
-#Recipe/Dessert 
+---
+tags:
+  - Dessert
+---
+
+#Banana Bread 🍌
+
 ### Ingredients
 - 3 ripe bananas (ideal if they are browning a bit)
 - 115 grams butter

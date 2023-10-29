@@ -1,4 +1,10 @@
-#Recipe/Dessert #Recipe/Vegetarian 
+---
+tags:
+  - Dessert
+  - Vegetarian
+---
+
+# Chocolate Avocado Mousse 🍫
 
 ![](https://i.imgur.com/qafwGfC.png)
 

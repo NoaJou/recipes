@@ -1,4 +1,10 @@
-#Recipe/Main #Recipe/Vegetarian 
+---
+tags:
+  - Main
+  - Vegetarian
+---
+
+#Avocado Truffle Gnocchi 🥑
 
 > Serves: 2 | Time: 20min
 ### Ingredient

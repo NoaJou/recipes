@@ -1,4 +1,9 @@
-#Recipe/Main
+---
+tags:
+  - Main
+---
+
+# Strata (Breakfast Casserole) 🍲
 
 ![](https://i.pinimg.com/originals/3b/45/b4/3b45b4388e6b143753818c67370688d2.jpg)
 

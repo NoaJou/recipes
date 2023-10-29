@@ -1,4 +1,10 @@
-#Recipe/Drink #Recipe/Vegetarian 
+---
+tags:
+  - Drink
+  - Vegetarian
+---
+
+# Kombucha 🍵
 
 ![Kombucha|500](https://i.imgur.com/RCtMloL.jpg|20)
 

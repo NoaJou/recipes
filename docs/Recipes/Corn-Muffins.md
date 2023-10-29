@@ -1,4 +1,10 @@
-#Recipe/Side #Recipe/Vegetarian 
+---
+tags:
+  - Side
+  - Vegetarian
+---
+
+# Corn Muffins 🌽
 
 ![https://images.unsplash.com/photo-1618776061053-3f65e855b0c8?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1618776061053-3f65e855b0c8?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
