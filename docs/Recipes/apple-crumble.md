@@ -6,7 +6,7 @@ tags:
 
 # Apple Crumble 🍏
 
-![](https://i.imgur.com/0wEJh3V.jpg)
+<img src="https://i.imgur.com/0wEJh3V.jpg" height="300" />
 
 >Serves: 8 | Time: 1h
 ### Ingredients 
